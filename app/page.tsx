@@ -6,10 +6,6 @@ export default function Home() {
       <h1>Hello from page </h1>
       <h1>Hello from page </h1>
       <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
     </div>
   );
 }
