@@ -1,11 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
-      <h1>Hello from page </h1>
+      <p> My anme is is</p>
     </div>
   );
 }
